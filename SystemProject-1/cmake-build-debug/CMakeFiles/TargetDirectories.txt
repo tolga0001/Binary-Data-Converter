@@ -1,0 +1,3 @@
+/Users/tolga/CLionProjects/SystemProject/cmake-build-debug/CMakeFiles/SystemProject.dir
+/Users/tolga/CLionProjects/SystemProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tolga/CLionProjects/SystemProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
